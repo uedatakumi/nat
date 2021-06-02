@@ -1,0 +1,4 @@
+# nat
+
+addition +
+multiplication *
