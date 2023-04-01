@@ -5,9 +5,9 @@ data N : Set where
   suc  : N -> N
 
 _+_ : N -> N -> N
-n + zero = n
+n + zero    = n
 n + (suc m) = suc (n + m)
 
 _*_ : N -> N -> N
-n * zero = zero
+n * zero    = zero
 n * (suc m) = (m * n) + m
