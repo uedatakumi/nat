@@ -11,6 +11,7 @@ Natural Numbers
 
 - zero: zero
 - successor: suc
+- predecessor: prd
 - addition: +
 - multiplication: *
 
